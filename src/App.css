@@ -1,0 +1,13 @@
+.add-todo {
+  display: flex;
+  margin-top: 100px;
+}
+
+.MuiListItem-root.done {
+  text-decoration: line-through;
+}
+
+.group-filter {
+  display: flex;
+  gap: 50px;
+}
